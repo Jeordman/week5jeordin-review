@@ -17,6 +17,9 @@ const cars = [
 ];
 
 module.exports = {
+  //this is one way to write these functions
+  //the functions here are exported in an object for use in our index folder
+  //we do this to allow more organization
   getCars: (req, res) => {
     res.status(200).send(cars);
   },
