@@ -1,1 +1,1 @@
-This file structure will be good for you to memorize. The orginization of my files in this situation is close to optimal
+This file structure will be good for you to memorize. The organization of my files in this situation is close to optimal
